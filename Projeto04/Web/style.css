@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: blue;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 6px 3px;
+
+}
+
+h2 {
+    text-align: center;
+}
